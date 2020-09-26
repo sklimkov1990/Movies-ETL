@@ -10,10 +10,10 @@ For this project we are creating an automated pipeline that takes in new data, p
 
 # Module Project Overview
 
-During the module steps were done to extract, transform and load the data to Postgres database.
+- During the module steps were done to extract, transform and load the data to Postgres database.
 
 # Challenge Overview
 
-For challenge project, the code was refactored into a function to extract, clean, transform, and load the data to Postgres Database.
+- For challenge project, the code was refactored into a function to extract, clean, transform, and load the data to Postgres Database.
 
-Total time it took to upload is shown below along with the final record count of two tables that are created in Postgres database 'movie_data', tables movies and ratings.
+- Total time it took to upload is shown below along with the final record count of two tables that are created in Postgres database 'movie_data', tables movies and ratings.

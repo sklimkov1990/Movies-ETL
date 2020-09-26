@@ -4,9 +4,9 @@ For this project we are creating an automated pipeline that takes in new data, p
 
 # Resources:
 
-Data Source: movies_metadata.csv, ratings.csv, wikipedia.movies.json
-Software: anaconda3, python 3.7.7, jupyter notebook
-Library: pandas, numpy, re, json, sqlalchemy, and time
+- Data Source: movies_metadata.csv, ratings.csv, wikipedia.movies.json
+- Software: anaconda3, python 3.7.7, jupyter notebook
+- Library: pandas, numpy, re, json, sqlalchemy, and time
 
 # Module Project Overview
 

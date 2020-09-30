@@ -17,3 +17,9 @@ For this project we are creating an automated pipeline that takes in new data, p
 - For challenge project, the code was refactored into a function to extract, clean, transform, and load the data to Postgres Database.
 
 - Total time it took to upload is shown below along with the final record count of two tables that are created in Postgres database 'movie_data', tables movies and ratings.
+
+![](Resources/upload_time)
+
+![](Resources/SQL_ratings)
+
+![](Resources/SQL_movies)
